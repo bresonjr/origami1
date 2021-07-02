@@ -1,0 +1,19 @@
+img{
+    border:solid;
+}
+h1{
+    border:solid;
+}
+*{
+    border: solid;
+}
+.header{
+    background-color: palevioletred;
+    display:flex;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: pink;
+    display:flex;
+    justify-content: space-evenly;
+}
